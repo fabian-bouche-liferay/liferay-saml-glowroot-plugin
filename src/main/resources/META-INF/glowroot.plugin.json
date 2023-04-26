@@ -1,0 +1,8 @@
+{
+  "name": "Liferay SAML Plugin",
+  "id": "liferay-saml-plugin",
+  "aspects": [
+    "com.liferay.samples.fbo.glowroot.saml.plugin.SAMLAspect"
+  ],
+  "collocate": true
+}
